@@ -1,0 +1,24 @@
+{
+    "1022436463": {
+        "Nombre y Apellidos": "Maria Camila Diaz Toledo",
+        "Documento": "1022436463",
+        "Direccion": "Cra26#35a-96",
+        "Acudiente": "Sandra Toledo Rincon",
+        "Telefono": "3213331932",
+        "Estado": "Aprobado",
+        "Area": "Salon",
+        "Horario": "Horas",
+        "Riesgo": false
+    },
+    "1044698753": {
+        "Nombre y Apellidos": "Felipe Guzman Mejia",
+        "Documento": "1044698753",
+        "Direccion": "Calle89#25-56",
+        "Acudiente": "Federico Guzman Parra",
+        "Telefono": "3245698811",
+        "Estado": "Inscrito",
+        "Area": "Salon",
+        "Horario": "Horas",
+        "Riesgo": false
+    }
+}
