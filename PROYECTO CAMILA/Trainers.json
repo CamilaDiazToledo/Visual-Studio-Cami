@@ -1,0 +1,24 @@
+{
+    "52445352": {
+        "Nombre y Apellidos": "Felipe Monarca Suarez",
+        "Cedula": "52445352",
+        "Direccion": "Calle 24 #34-06",
+        "Telefono": "3234451822",
+        "Estado": "Inscrito",
+        "Cursos a cargo": null,
+        "Horario": "Horas"
+    },
+    "1022456455": {
+        "Nombre y Apellidos": "consiafirulo torres",
+        "Cedula": "1022456455",
+        "Direccion": "calle13",
+        "Telefono": "33333333",
+        "Horario": {
+            "Inicio": "Inicia a las 06:00 hrs",
+            "Salon": "En el salon APOLO"
+        },
+        "Cursos a cargo": {
+            "Grupo": "AP06"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Rutas": ["NodeJS", "Java", "NetCore"],
+    "Modulos": {
+    "Fundamentos de programacion": {"Introduccion a la algoritmia", "PSeInt":"sin asignar", "Python":"sin asignar"},
+    "Programacion Web": {"HTML":"sin asignar", "CSS":"sin asignar", "Bootstrap":"sin asignar"},
+    "Programacion formal": {"Java":"sin asignar", "JavaScript":"sin asignar", "C#":"sin asignar"},
+    "Bases de datos": {
+    "Mysql": "sin asignar",
+    "MongoDb": "sin asignar",
+    "Postgresql": "sin asignar"
+    },
+    "Backend": {"NetCore":"sin asignar", "Spring Boot":"sin asignar", "NodeJS":"sin asignar", "Express":"sin asignar"}
+    }
+}
