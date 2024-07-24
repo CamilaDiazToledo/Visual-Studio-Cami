@@ -19,6 +19,10 @@ pip install -r requirements.txt
 ```
 
 ### Cómo usar :point_down:
+
+1. Clona este repositorio: [Presiona aqui](https://github.com/CamilaDiazToledo/Visual-Studio-Cami)
+2. Abre el proyecto con Visual Studio Code desgarga python y sus diversas extenciones para poder ejecutar el programa
+
 Una vez instaladas las dependencias, puedes ejecutar el programa con el siguiente comando:
 ```bash
 python main.py
