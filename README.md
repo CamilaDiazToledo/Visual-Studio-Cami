@@ -1,4 +1,4 @@
-# 🚀 CampusLands Academic Tracking System 🚀
+# 🚀 CampusLands Progrma de Gestion Academica 🚀
 
 Este proyecto es una aplicación en Python diseñada para gestionar y seguir el progreso académico de los campers inscritos en el programa intensivo de programación de CampusLands. La aplicación permite registrar y administrar información de los campers, gestionar rutas de entrenamiento, asignar roles y evaluar el rendimiento académico.
 
