@@ -55,17 +55,17 @@ Este comando iniciará la aplicación y te permitirá interactuar con la interfa
 
 Hecho por [Maria Camila Dìaz Toledo](https://github.com/CamilaDiazToledo) ✒️
 
-[!NOTE]
-Asegúrate de tener los permisos adecuados para acceder a las funcionalidades de administrador.
+> [!NOTE]
+>Asegúrate de tener los permisos adecuados para acceder a las funcionalidades de administrador.
 
-[!TIP]
-Usa venv para crear un entorno virtual y mantener las dependencias del proyecto aisladas.
+>[!TIP]
+>Usa venv para crear un entorno virtual y mantener las dependencias del proyecto aisladas.
 
-[!IMPORTANT]
-Guarda regularmente el progreso para evitar pérdida de datos.
+>[!IMPORTANT]
+>Guarda regularmente el progreso para evitar pérdida de datos.
 
-[!WARNING]
-Verifica que todas las rutas y módulos estén correctamente asignados para evitar conflictos.
+>[!WARNING]
+>Verifica que todas las rutas y módulos estén correctamente asignados para evitar conflictos.
 
-[!CAUTION]
-No excedas la capacidad máxima de los módulos para asegurar una formación óptima.
+>[!CAUTION]
+>No excedas la capacidad máxima de los módulos para asegurar una formación óptima.
