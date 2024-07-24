@@ -18,7 +18,7 @@ Para instalar y ejecutar el proyecto, asegúrate de tener Python 3.x y pip insta
 pip install -r requirements.txt
 ```
 
-### Cómo usar
+### Cómo usar :point_down:
 Una vez instaladas las dependencias, puedes ejecutar el programa con el siguiente comando:
 ```bash
 python main.py
@@ -27,15 +27,14 @@ Este comando iniciará la aplicación y te permitirá interactuar con la interfa
 
 ### Estructura del Proyecto🏗️
 
--main.py: Archivo principal para ejecutar el programa.
--campers.py: Módulo que define la clase Camper y sus métodos.
--trainers.py: Módulo que define la clase Trainer y sus métodos.
--routes.py: Módulo que define las rutas de entrenamiento y sus módulos.
--modules.py: Módulo que define las áreas de entrenamiento y módulos.
--reports.py: Módulo para generar reportes sobre el estado de los campers y trainers.
--utils.py: Módulo con funciones auxiliares.
+-menu.py: Archivo principal para ejecutar el programa.
+-camper2.py: Módulo que define la clase Camper y sus métodos.
+-trainer2.py: Módulo que define la clase Trainer y sus métodos.
+-ruta1.py: Módulo que define las rutas de entrenamiento y sus módulos.
+-cusos.py: Módulo que define las áreas de entrenamiento y módulos. y se anexa y liga la informacion de otros archivos (es el mas robusto)
+-funciones_json.py: Módulo con funciones auxiliares.
 
-### Funcionalidades
+### Funcionalidades :dart:
 1. Registro de Campers 📝: Permite ingresar y modificar la información de los campers, incluyendo identificación, nombres, apellidos, dirección, acudiente, teléfonos, estado y riesgo.
 
 2. Gestión de Rutas de Entrenamiento 🏫: Administra diferentes rutas de entrenamiento como NodeJS, Java y NetCore. Puedes crear nuevas rutas y asignar módulos específicos.
@@ -46,7 +45,7 @@ Este comando iniciará la aplicación y te permitirá interactuar con la interfa
 
 5. Consultas y Reportes 📊: Genera reportes detallados sobre el estado de los campers, los que aprobaron o perdieron módulos, y el desempeño de los trainers.
 
-Reportes
+### Reportes :memo:
 - Listar los campers en estado de inscrito.
 - Listar los campers que aprobaron el examen inicial.
 - Listar los trainers trabajando con CampusLands.
